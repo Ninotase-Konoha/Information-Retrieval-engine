@@ -7,7 +7,7 @@
 
 ## Aim
 
-The project implements an information retrieval system using well known term-weighting scheme called "tf-idf". 
+The project implements an information retrieval engine using well known term-weighting scheme called "tf-idf". 
 For further information about the tf-idf please visit the wikipedia article:
 
 ### Tf-idf Link
