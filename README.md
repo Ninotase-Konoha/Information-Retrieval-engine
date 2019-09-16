@@ -67,7 +67,7 @@ Note: If multiple symbols appear in the word only the first one is removed from 
 
 | Word (input) | Normalised Word (output) |
 | :---        |    :----:   | 
-| LukaGamlin.      | lukagamulin       | 
+| LukaGamulin.      | lukagamulin       | 
 | Luka?             | luka        |
 | LukaJose??          |  lukajose?         |
 | Luka.Jose?  | luka.jose |
